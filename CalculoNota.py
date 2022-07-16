@@ -10,7 +10,7 @@ notafinal1 = notapre * 0.6
 notafinal2 = notaexam * 0.4
 notafinal = notafinal1 + notafinal2
 
-if notafinal < 4.0:
+if notafinal < 3.95:
     print (f"Tu nota es", round(notafinal), f"tu situación es {status1}\n")
 
 elif notafinal >= 4.0:
