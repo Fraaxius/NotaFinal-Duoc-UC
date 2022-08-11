@@ -16,4 +16,9 @@ if notafinal < 3.95:
 elif notafinal >= 4.0:
     print (f"Tu nota es {notafinal}, tu situación es {status2}\n")
 
-print ("Gracias por usar el programa <3")
+print ("Gracias por usar el programa <3\n")
+
+print ('''
+Hecho por Francisco Sánchez M.
+Estudiante de Informática Biomédica en Duoc UC.
+''')
